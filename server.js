@@ -11,7 +11,7 @@ const __dirname = path.dirname(__filename);
 // initialize app
 const app = express();
 // define port
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 
 // make the public folder usable
 app.use(express.static('public'));
