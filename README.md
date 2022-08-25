@@ -17,11 +17,9 @@
 
 A simple note taking app powered by express.js
 
-
 <a href="https://github.com/Kurohyou/express-note-sc"><strong>Explore the docs »</strong></a>
 
-
-<a href="https://github.com/Kurohyou/express-note-sc">View Demo</a> · <a href="https://github.com/Kurohyou/express-note-sc/issues">Report Bug</a> · <a href="https://github.com/Kurohyou/express-note-sc/issues">Request Feature</a>
+<a href="https://express-notes-sc.herokuapp.com/">View Demo</a> · <a href="https://github.com/Kurohyou/express-note-sc/issues">Report Bug</a> · <a href="https://github.com/Kurohyou/express-note-sc/issues">Request Feature</a>
 </p>
 </div>
 <!-- TABLE OF CONTENTS -->
@@ -36,14 +34,7 @@ A simple note taking app powered by express.js
 </li>
 <li>
 <a href="#getting-started">Getting Started</a>
-<ul>
-<li><a href="#installation">Installation</a></li>
-</ul>
 </li>
-<li><a href="#usage">Usage</a></li>
-<li><a href="#tests">Tests</a></li>
-<li><a href="#roadmap">Roadmap</a></li>
-<li><a href="#contributing">Contributing</a></li>
 <li><a href="#license">License</a></li>
 <li><a href="#contact">Contact</a></li>
 <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -53,46 +44,27 @@ A simple note taking app powered by express.js
 
 ## About The Project
 ![Product Name Screen Shot][product-screenshot]
-TODO
+
+The project was built with starter code provided by the University of Utah Full Stack Bootcamp.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
-- TODO
+
+- JS
+    - Node.js
+    - Express.js
+- HTML
+- CSS
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## Getting Started
-TODO
-### Installation
-TODO
+Simply visit the live site to see what notes have been recorded by yourself or other users.
 <p align="right">(<a href="#top">back to top</a>)</p>
-<!-- USAGE EXAMPLES -->
 
-## Usage
-TODO
-<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- ROADMAP -->
 
-## Tests
-TODO
-<!-- ROADMAP -->
-
-## Roadmap
-TODO
-See the [open issues](https://github.com/Kurohyou/express-note-sc/issues) for a full list of proposed features (and known issues).
-<p align="right">(<a href="#top">back to top</a>)</p>
-<!-- CONTRIBUTING -->
-
-## Contributing
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-<p align="right">(<a href="#top">back to top</a>)</p>
 <!-- LICENSE -->
 
 ## License
