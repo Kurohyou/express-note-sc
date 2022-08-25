@@ -1,6 +1,6 @@
+// import promise version of file system module
 import * as fs from 'node:fs/promises';
 import path from 'path';
-import { fileURLToPath } from 'url';
 import { v1 as uuid } from 'uuid';
 
 /**
